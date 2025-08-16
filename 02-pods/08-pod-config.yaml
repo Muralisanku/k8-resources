@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: config-pod
 spec:
-  #list of contaiers
+  # list of containers
   containers:
   - name: config-pod
     image: nginx
