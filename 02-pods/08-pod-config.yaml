@@ -34,6 +34,6 @@ spec:
     #here with this line port will not be opened, just for information
     ports:
     - containerPort: 80
-    env:
+    envFrom:
     - configMapRef:
         name: devops-configmap
