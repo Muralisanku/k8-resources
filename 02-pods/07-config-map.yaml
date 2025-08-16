@@ -4,4 +4,4 @@ metadata:
   name: devops-configmap
 data:
   course: DevOps
-  tariner: "Sivakumar"
+  trainer: "Sivakumar"
